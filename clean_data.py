@@ -6,3 +6,4 @@ from types import ClassMethodDescriptorType
 fancy python ClassMethodDescriptorType
 
 _BlakeHash
+
