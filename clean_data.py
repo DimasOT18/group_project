@@ -1,9 +1,9 @@
-# hey I'm doing new code
+# a bunch of new stuff 
+from hashlib import _BlakeHash
+from types import ClassMethodDescriptorType
 
-import code
-from platform import python_branch
 
+fancy python ClassMethodDescriptorType
 
-python_branch
+_BlakeHash
 
-code
